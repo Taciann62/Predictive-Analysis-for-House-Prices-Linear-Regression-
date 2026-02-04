@@ -1,4 +1,4 @@
-# Housing Cost Prediction
+# Housing Cost Prediction: Project Description and Insights
 
 ## Introduction
 
